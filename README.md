@@ -12,14 +12,14 @@ public int hashCode() {
 }
 ```
 
-Levraging HashSet's:
+Leveraging HashSets:
 
 
 ```
 this.shapeSet = new HashSet<>();
 ```
 
-## To create a canvas and generate random shapes, instantiate a new CCanvas object
+## To create a canvas, and generate random shapes, instantiate a new CCanvas object
 
 ```
 CCanvas canvas = new CCanvas();
